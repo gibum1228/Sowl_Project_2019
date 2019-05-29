@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Home.unity
+    guid: 13e17c4b56226014ca9fcda9aee97cad
+  - enabled: 1
+    path: Assets/Scenes/Abillity.unity
+    guid: cb3e8a09dfcbc444a935473cd35939a7
+  - enabled: 1
+    path: Assets/Scenes/JewelCreate.unity
+    guid: b6001307f5612cf44b2d96b2c8da3562
+  - enabled: 1
+    path: Assets/Scenes/JewelUpgrade.unity
+    guid: a6ece12ac24038a4796ae4d4ef0ef181
+  - enabled: 1
+    path: Assets/Scenes/Work.unity
+    guid: a682f033f42fe36488eff00e7f8a3047
+  - enabled: 1
+    path: Assets/Scenes/WorkChoice.unity
+    guid: 130b378bb32d107458bc0e2408ffd118
+  - enabled: 1
+    path: Assets/Scenes/Inventory.unity
+    guid: 7c7a62f3c474dfd43a018d47680a29c4
+  m_configObjects: {}
