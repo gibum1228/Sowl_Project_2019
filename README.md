@@ -8,3 +8,5 @@
 · UnityStydy3_1 - 2D로 이미지를 만들어 물리를 이용해 아래로 떨어지게 만들어 중력을 표현 및 장애물 피하기 게임에 적용할 수 있음
 \
 · JewelSmelting - 채광해서 보석을 직접 구한 후 보석 강화에서 재산 늘리기 게임
+
+link: https://github.com/JuJangGwon/S.owl-2019-1-project-
